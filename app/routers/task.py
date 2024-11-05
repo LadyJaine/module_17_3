@@ -1,27 +1,27 @@
 from fastapi import APIRouter
 
-routerT = APIRouter(prefix="/task",tags=["task"])
+router = APIRouter(prefix="/task",tags=["task"])
 
-@routerT.get("/")
+@router.get("/")
 async def all_tasks():
     pass
 
-@routerT.get("/task_id'")
+@router.get("/task_id'")
 async def task_by_id():
     pass
 
-@routerT.post("/create")
+@router.post("/create")
 async def create_task():
     pass
 
-@routerT.put("update")
+@router.put("update")
 async def update_task():
     pass
 
-@routerT.delete("/delete")
+@router.delete("/delete")
 async def delete_task():
     pass
 
-@routerT.delete("/cross")
+@router.delete("/cross")
 async def delete_task():
     pass

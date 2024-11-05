@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0f2ed902-2544-4933-9693-f7e2e10c52a7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/app/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/migrations/versions/2d87476f935b_initial_migration.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/app/routers/task.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/routers/task.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/routers/user.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/routers/user.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Modul_17/.idea/Modul_17.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Modul_17/.idea/Modul_17.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Modul_17/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Modul_17/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Modul_17/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Modul_17/.idea/workspace.xml" afterDir="false" />
@@ -47,7 +48,7 @@
     "Python.user.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/Евгения/PycharmProjects/Module_16_API",
+    "last_opened_file_path": "C:/Users/Евгения/PycharmProjects/17_rout_project",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
